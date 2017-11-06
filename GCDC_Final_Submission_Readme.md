@@ -4,11 +4,11 @@
 ### Introduction
 This repo contains the following:
 
-*An R Script titled run_analysis.R
+* An R Script titled run_analysis.R
 
-*A Codebook titled GCDC_HAR_Subset_CodeBook.md
+* A Codebook titled GCDC_HAR_Subset_CodeBook.md
 
-*A Readme file titled GCDC_Final_Submission_README.md
+* A Readme file titled GCDC_Final_Submission_README.md
 
 ### Brief Overview of the Assignment
 The purpose of the assignment was to download the UCI HAR Dataset and create an R Script that would do the following:
