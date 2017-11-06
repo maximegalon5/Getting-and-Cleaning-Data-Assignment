@@ -1,9 +1,10 @@
 # Codebook to accompany the run_analysis.R Script
 
-##INTRODUCTION
+## INTRODUCTION
+
 The purpose of the assignment was to download the UCI HAR Data-set and create a 'tidy' data subset with the average values of the mean and std values of the observed variables. Please refer to the associated README file for more details on the assignment and the course.
 
-##Overview of the process
+## Overview of the process
 
 The objective was achieved by performing the following actions / data manipulations.
 Note: The associated script has been annotated to assist in the read-ability of the code.
@@ -29,6 +30,7 @@ Note: The associated script has been annotated to assist in the read-ability of 
 ***
 
 ### Downloading and Unzipping the Data into the working directory.
+
 The files were downloaded and unzipped into the local working directory.
 Download URL(https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
